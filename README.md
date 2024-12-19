@@ -2,7 +2,7 @@
 
 [![unit test](https://github.com/nhymxu/django-floc-disable/actions/workflows/test-python.yml/badge.svg?branch=main)](https://github.com/nhymxu/django-floc-disable/actions/workflows/test-python.yml)
 
-Django middleware to disable Google's Federated Learning of Cohorts (`FLoC`) tracking
+Django middleware to disable Google's Federated Learning of Cohorts (`FLoC`) tracking.
 
 ## Python / Django Support
 
